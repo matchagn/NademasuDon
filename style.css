@@ -5,7 +5,9 @@ body {
 
 /* タイトルデザイン */
 #title {
-    color: #714C3C;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #A55367;
 }
 
 /*まずはお決まりのボックスサイズ算出をborer-boxに */
