@@ -3,6 +3,11 @@ body {
     background-color: #F3E9CE;
 }
 
+/* タイトルデザイン */
+#title {
+    color: #714C3C;
+}
+
 /*まずはお決まりのボックスサイズ算出をborer-boxに */
 
 *, *:before, *:after {
